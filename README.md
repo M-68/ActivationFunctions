@@ -1,7 +1,7 @@
 # ActivationFunctions
 Tried implementing activation functions from scratch in Tensorflow.
 
-## Structure
+### Structure
  ```  
 src
 |
@@ -15,7 +15,6 @@ references
 |--Ref1
 |--Refn
 
-
 ```
 ### Implemented activations:
  
@@ -25,5 +24,7 @@ references
 - SElu
 - GELU
 
-
+###  Usage
  ``` 
+ git clone 
+```
