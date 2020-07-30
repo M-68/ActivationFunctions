@@ -27,6 +27,4 @@ references
 ###  Usage
  ``` 
  git clone  https://github.com/Agrover112/ActivationFunctions.git
- or
- zip
 ```
