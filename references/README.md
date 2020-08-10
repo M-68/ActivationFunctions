@@ -1,11 +1,4 @@
 ## References
--  @misc{klambauer2017selfnormalizing,
-    title={Self-Normalizing Neural Networks},
-    author={Günter Klambauer and Thomas Unterthiner and Andreas Mayr and Sepp Hochreiter},
-    year={2017},
-    eprint={1706.02515},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-    }
+-  [Self Normailizing Neural Networks ](https://arxiv.org/abs/1706.02515)
     
-  - https://mlfromscratch.com/activation-functions-explained/#elu
+  - [Activation Functions Blog](https://mlfromscratch.com/activation-functions-explained/#elu)
