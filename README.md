@@ -1,6 +1,16 @@
 # ActivationFunctions
 Tried implementing activation functions from scratch in Tensorflow.
 
+### Implemented activations:
+ 
+- LeakyReLu
+- ParametricReLu
+- Elu
+- SElu
+- GELU
+
+
+
 ### Structure
  ```  
 src
@@ -16,13 +26,6 @@ references
 |--Refn
 
 ```
-### Implemented activations:
- 
-- LeakyReLu
-- ParametricReLu
-- Elu
-- SElu
-- GELU
 
 ###  Usage
  ``` 
