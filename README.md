@@ -22,7 +22,12 @@ Link to main notebook --> [Activations.ipynb](https://github.com/Agrover112/Acti
 - Swish
 - GELU
 
-
+Some Metrics:
+| Activation   |    Time-1Layer     |  Time-nLayer | Time(with multiprocessing) |Time(without) |
+|----------|:-------------:|------:|------:|
+| col 1 is |  left-aligned |------:|------:|
+| col 2 is |    centered   |   $12 |  $12 |
+| col 3 is | right-aligned |    $1 |  $1 |
 
 ### Structure
  ```  
