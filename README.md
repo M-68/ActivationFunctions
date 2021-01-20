@@ -19,6 +19,7 @@ Link to main notebook --> [Activations.ipynb](https://github.com/Agrover112/Acti
 - ParametricReLu
 - Elu
 - SElu
+- Swish
 - GELU
 
 
