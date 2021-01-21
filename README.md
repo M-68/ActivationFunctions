@@ -25,11 +25,11 @@ Link to main notebook --> [Activations.ipynb](https://github.com/Agrover112/Acti
 Some Metrics:
 | Activation   |    Time-1Layer     |  Time-nLayer | Time(with multiprocessing) |Time(without) |
 |----------|:-------------:|------:|------:|------:|
-| LeakyReLu |  left-aligned |------:|1321||
+| LeakyReLu |  left-aligned |------:|23.443861722946167|24.17226767539978|
 | Elu |    centered   |   $12 |  $12 ||
 | Selu | right-aligned |    $1 |  $1 ||
-| Gelu | right-aligned |    $1 |  $1 ||
-| Swish | right-aligned |    $1 |  $1 ||
+| Gelu |  |    $1 |  23.319090604782104|23.577461004257202|
+| Swish | right-aligned |  | 23.77716302871704 |23.70854926109314|
 ### Structure
  ```  
 src
